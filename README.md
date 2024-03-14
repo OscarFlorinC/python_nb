@@ -25,7 +25,7 @@
 
 ### Al ser lenguaje de programación de alto nivel, diseñado para que los algoritmos sean expresados de forma clara y fácilmente entendibles.
 
-### Tambien gracias a su sintaxis simple y legible, es posible desarrollar soluciones eficientes y robustas con menos líneas de código en comparación con otros lenguajes. Esto hace que Python sea una excelente opción para desarrolladores de todos los niveles de experiencia.
+### También gracias a su sintaxis simple y legible, es posible desarrollar soluciones eficientes y robustas con menos líneas de código en comparación con otros lenguajes. Esto hace que Python sea una excelente opción para desarrolladores de todos los niveles de experiencia.
 
 ## ***- Ampliamente utilizado en múltiples campos***
 
@@ -57,6 +57,7 @@
 
 ### Solo hasta el 2021, como nos ha indicado Channel partner, hay 10.1 millones de programadores especializados en esta tecnología.
 
+# Desventajas de Python
 ## ***- Python es un lenguaje lento de programación para algunas tareas***
 
 ### Hasta ahora hemos tratado con un lenguaje de programación altamente utilizado y de alto nivel, que se caracteriza por su flexibilidad entre plataformas.
@@ -75,7 +76,7 @@
 
 
 ### [Python Docs](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#)
-### [Python NB](./ConfRH8/ConfIni_RH8.md)
+### [Python NB](./Python_NB/Python_NB.md)
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de follow.
 # ¡Muchas gracias, bienvenido!!!
