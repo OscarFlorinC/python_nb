@@ -1,4 +1,4 @@
-# _**- Python para principiantes**_
+# _**- Python Nivel Básico**_
 
 <img src="./imagenes/1.-Pres.png" width="700" height="300">
 
