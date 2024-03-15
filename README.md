@@ -76,7 +76,7 @@
 
 
 ### [Python Docs](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#)
-### [Python NB](./Python_NB/Python_NB.md)
+### [NB01](./Python_NB/Python_NB01.md)
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de follow.
 # ¡Muchas gracias, bienvenido!!!
