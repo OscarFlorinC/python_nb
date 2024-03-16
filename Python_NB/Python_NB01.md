@@ -47,10 +47,10 @@
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#) | ***Documentación oficial*** |
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](../Python_NB/Python_NB02.md) | ***Python Básico 02*** |
 
-# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
-# ¡Muchas gracias, bienvenido!!!
+## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
+## ¡Muchas gracias, bienvenido!!!
 
-# Contacto y apoyo:
+## Contacto y apoyo:
 
 <br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 [![Instagram](https://img.shields.io/badge/Cloudevozz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudevozz/)
