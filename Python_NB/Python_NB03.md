@@ -1,3 +1,30 @@
+# ***Variables***
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/09/Python-Variable-Types.png" width="500" height="300">
+
+### Nos permitan guardar valores , con el fin de reutilizarlos en diferentes partes del codigo.
+### Para crear una variable en python debes especificar el nombre de la variable y luego asignarle un valor
+
+> [!IMPORTANT]
+> ***Recuerda las buenas practicas***
+>+ ***Utilizar nombres descriptivos***
+
+## Estructura de una variable:
++ <"variable"> =  <"valor">
+
+### ***Ejemplo de variables:***
+
+<img src="../imagenes/6.-Py03cd.png" width="700" height="400">
+
+> [!WARNING]
+> En este caso tendremos como respuesta un error:
+> NameError: name 'X' is not defined. Did you mean: 'x'? 
+<img src="../imagenes/7.-Py03cd.png" width="700" height="100">
+
+> [!CAUTION]
+>No podemos utilizar palabras reservadas.
+>Estas son las palabras reservadas:
+>['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+<img src="../imagenes/8.-Py03cd.png" width="700" height="100">
 
 
 |  | Descripción |
