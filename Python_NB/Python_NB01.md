@@ -1,7 +1,9 @@
 # Visual Studio Code
 ## Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. Es gratuito y de código abierto,​ aunque la descarga oficial está bajo software privativo e incluye características personalizadas por Microsoft.
+<img src="../imagenes/2.-VSCode.png" width="700" height="300">
 
-### [VSCode](https://code.visualstudio.com)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+
 
 # ¿Quieres Aumentar Tu Productividad?
 ## Con más del 70 % de los desarrolladores que usan vscode, es el entorno de codificación más popular, desde el desarrollo web hasta la ciencia de datos.
@@ -40,13 +42,18 @@
 
 ##### ***Nota: Las convenciones de programación son un conjunto de directrices para un lenguaje de programación concreto que recomienda estilo, prácticas, y métodos de programación para cada aspecto de un programa escrito en cada lenguaje***
 
-### [NB02](../Python_NB/Python_NB02.md)
+|  | Descripción |
+|-----:|---------------|
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#) | ***Documentación oficial*** |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](../Python_NB/Python_NB02.md) | ***Python Básico 02*** |
 
-## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de follow.
+# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
 
-## Contacto y apoyo:
+# Contacto y apoyo:
 
-[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
-<br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
+<br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
+[![Instagram](https://img.shields.io/badge/Cloudevozz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudevozz/)
+[![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
+[![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+[![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
