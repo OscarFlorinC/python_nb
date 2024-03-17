@@ -1,5 +1,5 @@
 # ***Tipos de datos***
-<img src="https://www.researchgate.net/profile/Pedro-Gomis/publication/325387232/figure/fig4/AS:630680337793025@1527377318263/Figura-8-Tipos-de-datos-El-tipo-de-dato-caracter-no-existe-en-Python-un-caracter.png" width="600" height="400">
+<img src="../imagenes/9.-Py04a0.png" width="600" height="400">
 
 #### ***Tipos de datos. +El tipo de dato carácter no existe en Python, un carácter simple se representa como cadena de caracteres (string). ++ Estructuras compuestas de lenguajes como C, FORTRAN, Pascal, Matlab, etc. Py: Estructuras compuestas en Python. Fuente: elaboración propia.***
 ##### Fuente: https://www.researchgate.net/figure/Figura-8-Tipos-de-datos-El-tipo-de-dato-caracter-no-existe-en-Python-un-caracter_fig4_325387232
