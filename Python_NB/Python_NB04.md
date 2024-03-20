@@ -2,8 +2,8 @@
 <img src="../imagenes/9.-Py04a0.png" width="600" height="400">
 
 #### ***Tipos de datos. +El tipo de dato carácter no existe en Python, un carácter simple se representa como cadena de caracteres (string). ++ Estructuras compuestas de lenguajes como C, FORTRAN, Pascal, Matlab, etc. Py: Estructuras compuestas en Python. Fuente: elaboración propia.***
-##### Fuente: https://www.researchgate.net/figure/Figura-8-Tipos-de-datos-El-tipo-de-dato-caracter-no-existe-en-Python-un-caracter_fig4_325387232
 
+[![Fuente](https://img.shields.io/badge/Fuente-7A1FA2?style=for-the-badge&logo=)](https://www.researchgate.net/figure/Figura-8-Tipos-de-datos-El-tipo-de-dato-caracter-no-existe-en-Python-un-caracter_fig4_325387232)
 
 ## ***bool()***
 ### La función bool(), es un constructor, el cual crea un tipo de datos booleanos, devuelve un tipo booleano True cuando el argumento dado es True, de lo contrario False.
