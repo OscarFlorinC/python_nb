@@ -46,7 +46,7 @@
 # Ejemplo: 
 <img src="../imagenes/13.-PycdFEj.png" width="500" height="150">
 
-# Salida: 
+### Salida: 
 - ¡Hola Plone!
 
 ### La palabra reservada def se usa para definir funciones. Debe seguirle el nombre de la función en el ejemplo anterior hola() y la lista de parámetros formales entre paréntesis. Las sentencias que forman el cuerpo de la función empiezan en la línea siguiente, y deben estar indentado.
@@ -61,7 +61,62 @@
 
 ### Cuando envía argumentos a una función, estos se reciben por orden en los parámetros definidos. Se dice por tanto que son argumentos por posición:
 
+### En el ejemplo el argumento 30 es la posición 0 por consiguiente es el parámetro de la función a, seguidamente el argumento 10 es la posición 1 por consiguiente es el parámetro de la función b.
 
+<img src="../imagenes/13.-PycdFP.png" width="500" height="250">
+
+### Salida: 
+- 20
+
+# Por nombre
+
+### Sin embargo es posible evadir el orden de los parámetros si indica durante la llamada que valor tiene cada parámetro a partir de su nombre
+<img src="../imagenes/13.-PycdFN.png" width="500" height="250">
+
+### Salida: 
+- -20
+
+# Funciones anónimas
+
+### Una función anónima, como su nombre indica es una función sin nombre. Es decir, es posible ejecutar una función sin referenciar un nombre, en Python puede ejecutar una función sin definirla con def.
+
+### De hecho son similares pero con una diferencia fundamental, el contenido de una función anónima debe ser una única expresión en lugar de un bloque de acciones.
+
+### Las funciones anónimas se implementan en Python con las funciones o expresiones lambda, esta es unas de las funcionalidades más potentes de Python, pero a la vez es la más confusas para los principiantes.
+
+### Más allá del sentido de función que usted tiene hasta el momento, con su nombre y sus acciones internas, una función en su sentido más trivial significa realizar algo sobre algo. Por tanto se podría decir que, mientras las funciones anónimas lambda sirven para realizar funciones simples, las funciones definidas con def sirven para manejar tareas más extensas.
+
+# Expresión ***lambda***
+
+### Si deconstruye una función sencilla, puede llegar a una función lambda. La siguiente función es para doblar un valor de un número:
+
+<img src="../imagenes/13.-PycdFL1.png" width="500" height="250">
+
+### Salida:
+- 4
+- <class 'function'>
+
+### Si el código fuente anterior se simplifica se verá, de la siguiente forma:
+<img src="../imagenes/13.-PycdFLS1.png" width="500" height="250">
+
+### Salida:
+- 4
+- <class 'function'>
+
+### Usted puede todavía simplificar más, escribirlo todo en una sola línea, de la siguiente forma:
+<img src="../imagenes/13.-PycdFLS2.png" width="500" height="100">
+
+### Salida:
+- <function <'lambda'> at 0x1068a8940>
+
+### En este ejemplo tiene una función anónima con una entrada que recibe numero, y una salida que devuelve numero * 2.
+
+### Lo único que necesita hacer para utilizarla es guardarla en una variable y utilizarla tal como haría con una función normal:
+<img src="../imagenes/13.-PycdFLSF.png" width="500" height="200">
+
+### Salida:
+- 4
+- <class 'function'>
 
 
 #
