@@ -14,15 +14,17 @@
 
 ## Las extensiones de vscode cubren una amplia gama de funcionalidades útiles para mejorar su experiencia de dev.
 
-| EXTENSIONES | Por |
-|-----:|---------------|
-| Better Comments | Aaron Bond |
-| Indent-rainbow | Oderwat |
-| One Dark Pro | Binaryify |
-| Peacock | John Papa |
-| Prettier Code Formatter | Prettier |
-| Symbols | Miguel Solorio |
-| Python | Microsoft |
+## El siguiente cuadro muestra algunas extensiones de VS Code que sugiero que instales para este curso:
+
+| EXTENSIONES | Por |Descripción|
+|----|---------------|--------------|
+| Better Comments | Aaron Bond |La extensión Better Comments te ayudará a crear comentarios más amigables con el ser humano en tu código.|
+| Indent-rainbow | Oderwat |Esta extensión colorea la sangría delante de su texto, alternando cuatro colores diferentes en cada paso. Algunos pueden encontrarlo útil para escribir código para Python, Nim, Yaml y probablemente incluso tipos de archivos que no dependen de la sangría.|
+| One Dark Pro | Binaryify |Temas oscuros para VS code|
+| Peacock | John Papa |Cambia sutilmente el color de tu espacio de trabajo de Visual Studio Code. Ideal cuando tienes varias instancias de VS Code, usas VS Live Share o usas las funciones remotas de VS Code, y quieres identificar rápidamente a tu editor.|
+| Prettier Code Formatter | Prettier |Prettier es un formateador de código obstinado. Impone un estilo consistente al analizar su código y volver a imprimirlo con sus propias reglas que tienen en cuenta la longitud máxima de línea, ajustando el código cuando sea necesario.|
+| Symbols | Miguel Solorio |Un tema de icono de archivo simple para VS Code|
+| Python | Microsoft |La extensión convierte a VS Code en un excelente editor de Python y funciona en cualquier sistema operativo con una variedad de intérpretes de Python. Aprovecha todo el poder de VS Code para proporcionar autocompletado e IntelliSense, linting, depuración y pruebas unitarias, junto con la capacidad de cambiar fácilmente entre entornos Python.|
 
 
 # 10 Buenas practicas para mejorar tu código
