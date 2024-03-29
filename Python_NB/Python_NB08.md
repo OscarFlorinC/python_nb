@@ -169,6 +169,30 @@
 
 <img src="../imagenes/13.-PycdFG.png" width="500" height="300">
 
+### Salida:
+- uno
+- dos
+- tres
+
+
+# Decoradores
+
+### Un decorador es una función Python permite que agregar funcionalidad a otra función, pero sin modificarla. También, esto es llamado meta-programación, por que parte del programa trata de modificar a otro al momento de compilar.
+
+### Los decoradores son una funcionalidad relativamente importante en Python son definidos en el PEP-318. https://peps.python.org/pep-0318/
+
+### Se podría decir que son funciones que modifican la funcionalidad de otras funciones, y ayudan a hacer el código más corto y Pytónico.
+
+### Para llamar un decorador se utiliza el signo de arroba (@).
+
+<img src="../imagenes/13.-PycdFD.png" width="500" height="400">
+
+### Salida:
+- Haciendo algo antes de llamar a function()
+- Soy la funcion que necesita ser decorada
+- Haciendo algo despues de llamar a function()
+
+
 #
 |  | Descripción |
 |-----:|---------------|
