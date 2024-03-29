@@ -11,6 +11,7 @@ def cuenta_regresiva(numero):
 cuenta_regresiva(5)
  """
 
+""" 
 # Funcion Recursiva con retorno
 def factorial(numero):
     print("Valor inicial ->", numero)
@@ -20,3 +21,13 @@ def factorial(numero):
     return numero
 
 print(factorial(5))
+
+ """
+
+# Generadores
+def gen_basico():
+    yield "uno"
+    yield "dos"
+    yield "tres"
+for valor in gen_basico():
+    print(valor)

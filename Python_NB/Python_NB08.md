@@ -161,6 +161,13 @@
 - valor final -> 120
 - 120
 
+# Generadores
+
+### Un generador es un tipo de función que produce secuencias completos de resultados en lugar de ofrecer un único valor.
+
+### Devuelven los valores con la declaración ***yield***
+
+<img src="../imagenes/13.-PycdFG.png" width="500" height="300">
 
 #
 |  | Descripción |
