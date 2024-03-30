@@ -35,7 +35,7 @@ for valor in gen_basico():
 
  """
 
-
+""" 
 # --------Decoradores-----------
 # Declaramos funciones
 def nuevo_decorador(function):
@@ -54,4 +54,17 @@ funcion_a_decorar()
 funcion_a_decorar = nuevo_decorador(funcion_a_decorar)
 funcion_a_decorar
 
- 
+"""
+
+
+# Ejemplo alcance de las funciones
+variable = 60 # Esta variable es global ya que esta fuera de una funcion
+
+def funcion():
+    variable = 30 # Esta variable es local, esta dentro de la funcion.
+    if variable < 100:
+        print(variable)
+
+print(variable)     # La respuesta es 60
+funcion()           # La respuesta es 30
+print(variable)     # La respuesta es 60

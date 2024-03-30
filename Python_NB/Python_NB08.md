@@ -193,6 +193,16 @@
 - Haciendo algo despues de llamar a function()
 
 
+# Alcance de las funciones
+### Las variables que se utilizan deben encontrarse dentro del contexto de ejecución para poder acceder a ellas.
+
+<img src="../imagenes/13.-PycdFAlc.png" width="700" height="300">
+
+### Salida:
+- 60
+- 30
+- 60
+
 #
 |  | Descripción |
 |-----:|---------------|
