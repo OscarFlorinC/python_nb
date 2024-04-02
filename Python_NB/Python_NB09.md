@@ -41,7 +41,11 @@
 
 ### La parte anterior del mensaje de error muestra el contexto donde la excepción sucedió, en la forma de un trazado del error listando líneas fuente; sin embargo, no mostrará líneas leídas desde la entrada estándar.
 
-### Excepciones integradas, es una lista las excepciones predefinidas y sus significados.
+# Manejando excepciones
+
+### Es posible escribir programas que manejen determinadas excepciones. Mirá el siguiente ejemplo, que le pide al usuario una entrada hasta que ingrese un entero válido, pero permite al usuario interrumpir el programa (usando Control-C o lo que sea que el sistema operativo soporte); notá que una interrupción generada por el usuario se señaliza generando la excepción KeyboardInterrupt.
+
+
 
 #
 |  | Descripción |
