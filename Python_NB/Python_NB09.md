@@ -43,8 +43,19 @@
 
 # Manejando excepciones
 
-### Es posible escribir programas que manejen determinadas excepciones. Mirá el siguiente ejemplo, que le pide al usuario una entrada hasta que ingrese un entero válido, pero permite al usuario interrumpir el programa (usando Control-C o lo que sea que el sistema operativo soporte); notá que una interrupción generada por el usuario se señaliza generando la excepción KeyboardInterrupt.
+### Es posible escribir programas que manejen determinadas excepciones. El siguiente ejemplo, le pide al usuario una entrada hasta que ingrese un entero válido, pero permite al usuario interrumpir el programa (usando Control-C o lo que sea que el sistema operativo soporte); notá que una interrupción generada por el usuario se señaliza generando la excepción KeyboardInterrupt.
 
+<img src="../imagenes/14.-PyME.png" width="400" height="150">
+
+### La sentencia try funciona de la siguiente manera:
+
+### - Primero, se ejecuta el bloque try (el código entre las sentencias try y except).
+
+### - Si no ocurre ninguna excepción, el bloque except se saltea y termina la ejecución de la sentencia try.
+
+### - Si ocurre una excepción durante la ejecución del bloque try, el resto del bloque se saltea. Luego, si su tipo coincide con la excepción nombrada luego de la palabra reservada except, se ejecuta el bloque except, y la ejecución continúa luego de la sentencia try.
+
+### - Si ocurre una excepción que no coincide con la excepción nombrada en el except, esta se pasa a declaraciones try de más afuera; si no se encuentra nada que la maneje, es una excepción no manejada, y la ejecución se frena con un mensaje como los mostrados anteriormente.
 
 
 #
