@@ -34,6 +34,47 @@
 - Permite la creación de nuevos tipos de datos.
 
 
+# ***Objetos***
+
+### Los objetos son abstracción de Python para data. Toda la data en un programa Python es representado por objectos o por relaciones entre objectos.
+
+### Cada objeto tiene una identidad, un tipo y un valor. Una identidad de objecto nunca cambia una vez que es creada; usted puede pensar eso como la dirección de objeto en memoria. El operador in compara la identidad de dos objetos; la función id() devuelve un número entero representando la identidad (actualmente implementado como su dirección).
+
+### El tipo de un objeto también es inmutable. El tipo de un objeto determina las operaciones que admite el objeto (por ejemplo, «¿tiene una longitud?») Y también define los valores posibles para los objetos de ese tipo. La función ***«type()»*** devuelve el tipo de un objeto (que es un objeto en sí mismo). El valor de algunos objetos puede cambiar. Se dice que los objetos cuyo valor puede cambiar son mutables; los objetos cuyo valor no se puede cambiar una vez que se crean se llaman immutable. La mutabilidad de un objeto está determinada por su tipo.
+
+### Los objetos son la clave para entender la POO. Si mira a nuestro alrededor encontrará un sin fin de objetos de la vida real: perro, escritorio, televisor, bicicleta, etc…
+
+### En Python puede definir una clase con la palabra reservada class, de la siguiente forma:
+
+<img src="../imagenes/15.-PycdPOO1.png" width="200" height="100">
+
+### Salida: 
+- /usr/local/bin/python3 /Users/juanlopez/Desktop/GitHub/Python_Basic/Python_NB/Python_NB10.py
+
+### En el ejemplo anterior, el nombre de la clase es Persona y dentro del bloque de código usa la sentencia pass. La sentencia pass no es requerido por el intérprete, los nombres de las clases se escriben por convención capitalizadas. Las clases pueden (y siempre deberían) tener comentarios.
+
+<img src="https://entrenamiento-python-basico.readthedocs.io/es/3.7/_images/poo_objetos_clases.png" width="250" height="200">
+
+##### Diagrama de Objeto Persona
+
+# Atributos
+
+### Los atributos o propiedades de los objetos son las características que puede tener un objeto, como el color. Si el objeto es Persona, los atributos podrían ser: cedula, nombre, apellido, sexo, etc…
+
+### Los atributos describen el estado de un objeto. Pueden ser de cualquier tipo de dato.
+
+# Atributos
+
+### Los atributos o propiedades de los objetos son las características que puede tener un objeto, como el color. Si el objeto es Persona, los atributos podrían ser: cedula, nombre, apellido, sexo, etc…
+
+### Los atributos describen el estado de un objeto. Pueden ser de cualquier tipo de dato.
+
+<img src="../imagenes/15.-PycdPOO2.png" width="400" height="200">
+
+### Salida:
+- <class '__main__.Persona'>
+
+
 #
 |  | Descripción |
 |-----:|---------------|
