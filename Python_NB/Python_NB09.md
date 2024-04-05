@@ -70,7 +70,7 @@
 |  | Descripción |
 |-----:|---------------|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion1/index.html#) | ***Documentación oficial*** |
-| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](../Python_NB/Python_NB09.md) | ***Python Básico 09*** |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](../Python_NB/Python_NB10.md) | ***Python Básico 10*** |
 
 ## Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 ## ¡Muchas gracias, bienvenido!!!
