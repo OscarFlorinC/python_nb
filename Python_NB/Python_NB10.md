@@ -63,17 +63,23 @@
 
 ### Los atributos describen el estado de un objeto. Pueden ser de cualquier tipo de dato.
 
-# Atributos
-
-### Los atributos o propiedades de los objetos son las características que puede tener un objeto, como el color. Si el objeto es Persona, los atributos podrían ser: cedula, nombre, apellido, sexo, etc…
-
-### Los atributos describen el estado de un objeto. Pueden ser de cualquier tipo de dato.
-
 <img src="../imagenes/15.-PycdPOO2.png" width="400" height="200">
 
 ### Salida:
 - <class '__main__.Persona'>
 
+### Puedes probar el código anterior, si lo transcribe en el consola interactiva Python como lo siguiente:
+
+<img src="../imagenes/15.-PycdPOO3.png" width="600" height="500">
+
+### Salida:
+- MX-26938401
+- Juan
+- López
+- M
+- El objeto de la clase Persona, None.
+- Hola, mucho gusto, mi nombre es 'Juan López', 
+- mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
 
 #
 |  | Descripción |
