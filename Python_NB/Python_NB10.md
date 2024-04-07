@@ -102,6 +102,31 @@ mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
 
 ### Se definen de la misma forma que las funciones normales pero deben declararse dentro de la clase y su primer argumento siempre referencia a la instancia que la llama, de esta forma se afirma que los métodos son funciones, adjuntadas a objectos.
 
+### Si el objeto es Persona, los métodos pueden ser: hablar, caminar, comer, dormir, etc.
+<img src="../imagenes/15.-PycdPOM1.png" width="600" height="500">
+
+### Salida:
+- El objeto de la clase Persona, Clase que representa una Persona.
+- Hola, mucho gusto, mi nombre es 'Juan López', 
+mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
+
+### La única diferencia sintáctica entre la definición de un método y la definición de una función es que el primer parámetro del método por convención debe ser el nombre ***self***.
+
+### Puedes ejecutar el código de la siguiente forma:
+
+<img src="../imagenes/15.-PycdPOM2.png" width="500" height="300">
+
+### Analizar la estructura de la clase el cual representa a una Persona:
+
+<img src="../imagenes/15.-PycdPOM3.png" width="550" height="450">
+
+### Salida:
+- <class '__main__.Persona'>
+- None
+- None
+- <class 'method'>
+- None
+- Hola soy la clase type.
 
 
 #
