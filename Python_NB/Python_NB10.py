@@ -1,3 +1,4 @@
+""" 
 # Ejemplo de POO
 class Persona:
     #Clase que representa una Persona
@@ -7,8 +8,8 @@ class Persona:
     sexo = "M"
 
 texca = Persona
-type(texca)
-dir(texca)
+print(type(texca))
+print(dir(texca))
 print(texca.cedula)
 print(texca.nombre)
 print(texca.apellido)
@@ -21,3 +22,17 @@ print("Hola, mucho gusto, mi nombre es '{} {}', \nmi cédula de identidad es '{}
     texca.cedula,
     texca.sexo)
     )
+"""
+
+# Ejemplo de POO
+class Persona:
+    #Clase que representa una Persona
+    cedula = "MX-26938401"
+    nombre = "Juan"
+    apellido = "López"
+    sexo = "M"
+
+texca = Persona
+
+print(texca.__name__)
+print(texca.__doc__)

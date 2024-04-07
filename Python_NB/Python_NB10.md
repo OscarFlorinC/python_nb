@@ -73,13 +73,36 @@
 <img src="../imagenes/15.-PycdPOO3.png" width="600" height="500">
 
 ### Salida:
+<class 'type'>
+- ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'apellido', 'cedula', 'nombre', 'sexo']
 - MX-26938401
 - Juan
 - López
 - M
 - El objeto de la clase Persona, None.
 - Hola, mucho gusto, mi nombre es 'Juan López', 
-- mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
+mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
+
+### Si el nombre de un atributo esta encerrado entre dobles guiones bajos son atributos especiales.
+
+- ***_ _ _name_ _ _***, describe el nombre del objeto o del método.
+- ***_ _ _doc_ _ _***, contiene la documentación de un módulo, una clase, o método especifico, escrita en el formato docstrings.
+
+<img src="../imagenes/15.-PycdPOO4.png" width="350" height="250">
+
+### Salida:
+- Persona
+- None
+
+# Métodos
+
+### Los métodos describen el comportamiento de los objetos de una clase. Estos representan las operaciones que se pueden realizar con los objetos de la clase,
+
+### La ejecución de un método puede conducir a cambiar el estado del objeto.
+
+### Se definen de la misma forma que las funciones normales pero deben declararse dentro de la clase y su primer argumento siempre referencia a la instancia que la llama, de esta forma se afirma que los métodos son funciones, adjuntadas a objectos.
+
+
 
 #
 |  | Descripción |
