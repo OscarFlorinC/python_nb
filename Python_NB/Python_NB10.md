@@ -128,6 +128,77 @@ mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
 - None
 - Hola soy la clase type.
 
+# Ámbito de los métodos
+
+### Los métodos cuentan con un espacio de nombres propio. En caso de no encontrar un nombre en su ámbito local, buscará en el ámbito superior hasta encontrar alguna coincidencia.
+
+### Los métodos pueden acceder y crear atributos dentro del objeto al que pertenecen, anteponiendo la palabra ***self*** y el operador de atributo ***«.»*** antes del nombre del atributo en cuestión.
+
+# Métodos de clase
+### En ocasiones es necesario contar con métodos que interactúen con elementos de la clase de la cual el objeto es instanciado. Python permite definir métodos de clase para esto.
+
+### Los métodos de clase son aquellos que están ligados directamente con los atributos definidos en la clase que los contiene. Para definir un método de clase se utiliza el decorador ***@classmethod*** y por convención se utiliza cls como argumento inicial en lugar de self.
+
+### Del mismo modo, los métodos de clase utilizan el prefijo cls para referirse a los atributos de la clase.
+
+<img src="../imagenes/15.-PycdPOMC.png" width="400" height="300">
+
+# Métodos estáticos
+
+### Los métodos estáticos hacen referencia a las instancias y métodos de una clase. Para definir un método estático se utiliza el decorador @staticmethod y no utiliza ningún argumento inicial.
+
+### Al no utilizar self, los métodos estáticos no pueden interactuar con los atributos y métodos de la instancia.
+
+### Para referirse a los elementos de la clase, se debe utilizar el nombre de la clase como prefijo.
+
+<img src="../imagenes/15.-PycdPOME.png" width="400" height="300">
+
+# Interfaces
+
+### La forma en que los métodos de un objeto pueden ser accedidos por otros objetos se conoce como «interfaz». Una interfaz bien definida permite a objetos de distinta índole interactuar entre sí de forma modular. La interfaz define el modo en que los objetos intercambian información.
+
+# Clases
+
+### Las clases definen las características del objeto.
+
+### Se puede decir que una clase es una plantilla genérica de un objeto. La clase proporciona variables iniciales de estado (donde se guardan los atributos) e implementaciones de comportamiento (métodos) necesarias para crear nuevos objetos, son los modelos sobre los cuáles serán construidos.
+
+# Instancias
+
+### Ya sabe que una clase es una estructura general del objeto. Por ejemplo, puede decir que la clase Persona necesita tener una cedula, un nombre, un apellido y una sexo, pero no va a decir cual es cedula, nombre, apellido y sexo, es aquí donde entran las instancias.
+
+### Una instancia es una copia específica de la clase con todo su contenido
+
+<img src="../imagenes/15.-PycdPOOI.png" width="500" height="150">
+
+### Salida:
+-       Traceback (most recent call last):
+  -     File "/Users/juanlopez/Desktop/GitHub/Python_Basic/Python_NB/Python_NB10b.py", line 48, in <module>
+    -       persona1 = Persona("MX-13458796", "Juan", "López", "M")
+-       TypeError: Persona() takes no arguments
+
+
+### La excepción ***TypeError*** indica que el método constructor no toma argumentos, esto se debe a que la momento de definir la clase a cada atributo se le asigno un valor (tipo de dato).
+
+# Método ***_ _ init _ _ ()***
+
+### El método _ _ _init_ _ _() es un método especial, el cual se ejecuta al momento de instanciar un objeto. El comportamiento de _ _ _init_ _ _() es muy similar a los «constructores» en otros lenguajes. Los argumentos que se utilizan en la definición de _ _ _init_ _ _() corresponden a los parámetros que se deben ingresar al instanciar un objeto.
+
+<img src="../imagenes/15.-PycdPOMI.png" width="500" height="150">
+
+### Ejemplo método init
+<img src="../imagenes/15.-PycdPOMI1.png" width="500" height="370">
+
+### Salida:
+- Cédula:  MX-13458796
+- Nombre:  Juan
+- Apellido:  López
+- Sexo:  M
+
+###### Nota: Dentro del archivo Python_NB10c.py se encuentran 2 ejemplos mas con el método init, ***se necesita ingresar datos***
+
+# Fin del curso básico de ***Python***
+
 
 #
 |  | Descripción |

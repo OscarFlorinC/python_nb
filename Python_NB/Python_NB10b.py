@@ -21,7 +21,7 @@ print("Hola, mucho gusto, mi nombre es '{} {}', \nmi cédula de identidad es '{}
     texca.sexo)
 )
 """
-
+""" 
 # Ejemplo métodos
 class Persona:
     #Clase que representa una Persona
@@ -42,3 +42,45 @@ print(Persona().hablar.__doc__)
 print(type(Persona().hablar))
 print(Persona().hablar.__doc__)
 print(Persona().hablar("Hola soy la clase {0}.".format(texca.__class__.__name__)))
+
+"""
+
+""" 
+# Estructura de Método de clase
+class <Clase>:
+    # Linea 1 de Código
+    # Linea 2 de Código
+    .
+    .
+    .
+    @classmethod
+    def <metodo>(cls, <argumentos>):
+            # Linea 1 de Código
+            # Linea 2 de Código
+            .
+            .
+
+"""
+
+""" 
+# Estructura de Método estáticos
+class <Clase>:
+    # Linea 1 de Código
+    # Linea 2 de Código
+    .
+    .
+    .
+    @staticmethod
+    def <metodo>(<argumentos>):
+            # Linea 1 de Código
+            # Linea 2 de Código
+            .
+            .
+
+"""
+
+
+# Instancias
+persona1 = Persona("MX-13458796", "Juan", "López", "M")
+print(persona1)
+
