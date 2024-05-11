@@ -4,9 +4,9 @@
 ## ***¿Que es Python?***
 * Es un lenguaje de programación con una sintaxis limpia.
 
-## ***Caracteriaticas:***
+## ***Características:***
 * Lenguaje interpretado
-* Tipado dinamico
+* Tipado dinámico
 * Fuerte tipado
 * Multiplataforma
 * Orientada a objetos
