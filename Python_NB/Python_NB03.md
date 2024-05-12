@@ -1,7 +1,7 @@
 # ***Variables***
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/09/Python-Variable-Types.png" width="500" height="300">
 
-### Las varibles, nos permiten guardar valores, con el fin de reutilizarlos en diferentes partes del código.
+### Las variables, nos permiten guardar valores, con el fin de reutilizarlos en diferentes partes del código.
 ### Para crear una variable en python debes especificar el nombre de la variable y luego asignarle un valor
 
 > [!IMPORTANT]
