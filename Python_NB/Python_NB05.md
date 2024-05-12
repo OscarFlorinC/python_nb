@@ -1,4 +1,4 @@
-# Operadores Matematicos
+# Operadores Matemáticos
 
 <img src="https://m1.paperblog.com/i/202/2022047/guia-python-redefinicion-operadores-matematic-L-CKIZfp.png" width="600" height="400">
 
