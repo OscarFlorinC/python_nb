@@ -117,9 +117,9 @@ La oración analizada es: Mary entiende muy bien Python .
 <img src="../imagenes/12.-Py07cdD.png" width="500" height="400">
 
 # Salida:
-- nombres: Leonardo Jose
-- apellidos: Caballero Garcia
-- cedula: 26938401
+- nombres: Leonardo José
+- apellidos: Caballero García
+- cédula: 26938401
 - fecha_nacimiento: 03/12/1980
 - lugar_nacimiento: Maracaibo, Zulia, Venezuela
 - nacionalidad: Venezolana
