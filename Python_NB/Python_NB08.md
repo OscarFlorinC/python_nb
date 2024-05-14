@@ -189,8 +189,8 @@
 
 ### Salida:
 - Haciendo algo antes de llamar a function()
-- Soy la funcion que necesita ser decorada
-- Haciendo algo despues de llamar a function()
+- Soy la función que necesita ser decorada
+- Haciendo algo después de llamar a function()
 
 
 # Alcance de las funciones
