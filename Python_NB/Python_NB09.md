@@ -43,7 +43,7 @@
 
 # Manejando excepciones
 
-### Es posible escribir programas que manejen determinadas excepciones. El siguiente ejemplo, le pide al usuario una entrada hasta que ingrese un entero válido, pero permite al usuario interrumpir el programa (usando Control-C o lo que sea que el sistema operativo soporte); notá que una interrupción generada por el usuario se señaliza generando la excepción KeyboardInterrupt.
+### Es posible escribir programas que manejen determinadas excepciones. El siguiente ejemplo, le pide al usuario una entrada hasta que ingrese un entero válido, pero permite al usuario interrumpir el programa (usando Control-C o lo que sea que el sistema operativo soporte); nota que una interrupción generada por el usuario se señaliza generando la excepción KeyboardInterrupt.
 
 <img src="../imagenes/14.-PyME.png" width="400" height="150">
 
