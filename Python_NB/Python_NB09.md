@@ -62,7 +62,7 @@
 - Ejecuta el bloque try (entre try y except).
 - Si no ocurre ninguna excepción, el bloque except se saltea y termina la ejecución de la declaración try.
 - Si ocurre una excepción dentro del bloque try, el resto del bloque se saltea. Si el tipo de excepción corresponde con la nombrada luego de except, se ejecuta el bloque except, y la ejecución continua luego de la declaración try.
-- La declaracion try puede tener mas de un except para manejar distintas excepciones.
+- La declaración try puede tener mas de un except para manejar distintas excepciones.
 - Las declaraciones try ... except tienen un bloque else opcional que que continua el except.
 
 
