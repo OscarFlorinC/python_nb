@@ -59,7 +59,7 @@
 
 # Atributos
 
-### Los atributos o propiedades de los objetos son las características que puede tener un objeto, como el color. Si el objeto es Persona, los atributos podrían ser: cedula, nombre, apellido, sexo, etc…
+### Los atributos o propiedades de los objetos son las características que puede tener un objeto, como el color. Si el objeto es Persona, los atributos podrían ser: cédula, nombre, apellido, sexo, etc…
 
 ### Los atributos describen el estado de un objeto. Pueden ser de cualquier tipo de dato.
 
