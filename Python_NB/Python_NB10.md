@@ -165,7 +165,7 @@ mi cédula de identidad es 'MX-26938401', y mi sexo es 'M'.
 
 # Instancias
 
-### Ya sabe que una clase es una estructura general del objeto. Por ejemplo, puede decir que la clase Persona necesita tener una cedula, un nombre, un apellido y una sexo, pero no va a decir cual es cedula, nombre, apellido y sexo, es aquí donde entran las instancias.
+### Ya sabe que una clase es una estructura general del objeto. Por ejemplo, puede decir que la clase Persona necesita tener una cédula, un nombre, un apellido y una sexo, pero no va a decir cual es cédula, nombre, apellido y sexo, es aquí donde entran las instancias.
 
 ### Una instancia es una copia específica de la clase con todo su contenido
 
